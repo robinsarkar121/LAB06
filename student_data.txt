@@ -1,0 +1,6 @@
+cd "c:\Users\robin\OneDrive\Desktop\Hello World\" ; if ($?) { g++ String.cpp -o String } ; if ($?) { .\String }=0
+Robin=100
+Lisa=90
+Mia=20
+Ian=80
+Albert=0
